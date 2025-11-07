@@ -1,0 +1,6 @@
+openai
+uagents
+uagents-core
+langchain-community
+langchain-openai
+faiss-cpu
